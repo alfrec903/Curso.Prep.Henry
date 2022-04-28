@@ -1,0 +1,24 @@
+
+for
+Es una sentencia que se utiliza cuando se necesita codificar
+un fragmento de codigo que se tiene que repetir varias veces.
+A esta sentencia se le indica cuantas veces va a repetir dicho
+fragmento.
+
+&&
+Es un operador logico que se utiliza para unir dos expresiones
+las cuales van a ser evaluadas juntas.
+Una expresion unida con &&:
+Es verdadera cuando ambas expresiones
+son verdaderas.
+Es falsa cuando ambas son falsas o una de las dos es falsa.
+
+||
+Es un operador logico que se utiliza para unir dos expresiones
+las cuales van a ser evaluadas juntas.
+Es verdadera cuando una de las dos expresiones es verdadera.
+Es falsa cuando las dos expresiones son falsas.
+
+!
+Es un operador logico que se utiliza para negar una expresion.
+
