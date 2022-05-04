@@ -1,0 +1,5 @@
+
+Arrays
+Es una coleccion de objetos.
+Es como una caja grande que contiene cajitas enumeradas de forma
+secuencial desde el cero en adelante y cada cajita a su vez tiene uno o mas objetos.
