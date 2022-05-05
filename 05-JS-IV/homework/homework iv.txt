@@ -1,0 +1,19 @@
+Objetos
+Son colecciones de datos como los arrays pero con mucha mas informacion en esos datos.
+Un objeto esta formado de esta forma:
+Objeto {
+	nombre_de_dato : valor_nombre_de_dato
+}
+
+Propiedades
+Son nombres de los datos de un objeto. Tambien llamado clave o key
+
+Metodos
+Son funciones que forman parte de las propiedades de un objeto
+
+Bucle for_in
+Es utilizado para recorrer un objeto
+
+Notacion de puntos (NP) vs Notacion de corchetes (NC)
+(NP) Se lo utiliza para acceder de forma rapida a un dato del objeto.
+(NC) Se lo utiliza para acceder a datos complejos de un objeto.
