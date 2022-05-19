@@ -1,0 +1,6 @@
+PROTOTYPE
+Es un mecanismo en el que los objetos heredan sus propiedades.
+
+
+CONSTRUCTORS
+es un método especial utilizado para crear e inicializar objetos dentro de una clase.
