@@ -1,0 +1,2 @@
+Funciones Callback
+Son funciones que son usadas como parametro de una funcion.
